@@ -22,3 +22,4 @@ root.right = Node(3)
 # the left node has a leaf 4
 root.left.left = Node(4)
 print(root.left.left.val)
+print(root)
